@@ -1,6 +1,6 @@
 ALGORITHM Sum_Solution1
 VAR
-    set1,set2 := array_name : ARRAY_OF INTEGER[50];
+    set1,set2 : ARRAY_OF INTEGER[50];
     sum_dif,sum_Identq,j,i:=INTEGER;
     test:=BOOLEAN;
 BEGIN
